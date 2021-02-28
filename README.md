@@ -11,6 +11,7 @@ Repo contains the base configuration files for common tools like linters, contin
 Repo should be included as a **submodule** into an iOS project.
 
 ## **Configurations**
+- Scripts - bash scripts to setup dev tools like Homebrew, Bundler, Kdiff3
 - SwiftLint
 - Fastlane - not yet supported
 - Danger - not yet supported
