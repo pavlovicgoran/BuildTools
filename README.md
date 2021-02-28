@@ -12,6 +12,7 @@ Repo should be included as a **submodule** into an iOS project.
 
 ## **Configurations**
 - Scripts - bash scripts to setup dev tools like Homebrew, Bundler, Kdiff3
-- SwiftLint
+- Gemfile - to integrate ruby tools for iOS development
+- SwiftLint - swift linter to enforce coding style
 - Fastlane - not yet supported
 - Danger - not yet supported
